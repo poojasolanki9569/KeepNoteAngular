@@ -1,4 +1,4 @@
-# Angular Assignment - Keep	Level 3
+# Angular Project- Keep	Note
 
 ## Objective 
 
@@ -103,22 +103,3 @@ npm run lint
 20. Ensure e2e test cases pass -  
 `npm run serve` (backend shall be running before executing e2e test cases)  
 `npm run e2e`
-
-## Submitting your solution for preliminary automated review  
-1. Open `https://hobbes.stackroute.in/#/` and login into the platform  
-2. Under `Assignment repository` select `angular-keep-level-3-assignment`, and branch `master`  
-3. Under `Your solution repository` select your own repository and branch
-4. Press `Submit`  
-5. Press `click here` for the feedback  
-6. Evaluation will take around 5 mins to complete after which you need to refresh your browser and get the updated status  
-7. Watch out for your total score and detailed status on each test and eslint errors in the coloured blocks on the screen  
-8. Fix failing test cases as well as eslint errors and re-submit your solution (you may skip any eslint errors reported in the provided spec files)  
-
-
-## MENTORS TO BEGIN REVIEW YOUR WORK ONLY AFTER ->
-
-- You add the respective Mentor as a Reporter/Master into your Assignment Repository
-
-- You have checked your Assignment on the Automated Evaluation Tool - Hobbes (Check for necessary steps in your Boilerplate - README.md file. ) and got the required score - Check with your mentor about the Score you must achieve before it is accepted for Manual Submission.
-
-- Intimate your Mentor on Slack and/or Send an Email to learner.support@stackroute.in - with your Git URL - Once you are done working and are ready for final submission.
